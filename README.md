@@ -6,7 +6,7 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 
 * Quick summary
     - Web for the journal Temas Medievales
-    ![desktop.png](https://bitbucket.org/repo/R9y9j6K/images/1496693501-desktop.png)
+    ![desktop.png](https://bitbucket.org/repo/R9y9j6K/images/3731280796-desktop.png)
     > Desktop responsive model
 * Version 1.01
 
