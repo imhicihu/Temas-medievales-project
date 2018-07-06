@@ -1,14 +1,15 @@
 ## Technical requeriments ##
 
 * Hardware
-    - Macbook 13"
+    - Macbook 13 inch
     - 
     - 
     - 
 * Software
     - Bootstrap editors
-    - Lamp
-    - Wamp
+    - Lamp (virtual hosting)
+    - Wamp (virtual hosting)
+    - Mamp (virtual hosting)
     - [Bachtmod](http://www.lagentesoft.com/batchmod/) (file permissions)
 
 ## Legal ##
