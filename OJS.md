@@ -7,3 +7,8 @@ Recommended server requirements:
 	* Apache >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6
 	* Operating system: Any OS that supports the above software, including
 	  Linux, BSD, Solaris, Mac OS X, Windows
+	  
+	  
+## Backup
+    * Perform a manual backup when upgrading or performing
+	  maintenance
