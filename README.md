@@ -15,6 +15,9 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 * Summary of set up
     - a webserver
 	- a server simulator (for proof and testing)
+         + Wamp
+         + Lamp
+         + Mamp
 	- a stable internet connection
 	- Google Chrome browser
 	- Enabled Google Chrome internal tools
