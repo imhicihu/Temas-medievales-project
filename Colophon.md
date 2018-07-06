@@ -9,7 +9,7 @@
     - Bootstrap editors
     - Lamp
     - Wamp
-    - 
+    - [Bachtmod](http://www.lagentesoft.com/batchmod/) (file permissions)
 
 ## Legal ##
 
