@@ -11,6 +11,7 @@
     - Wamp (virtual hosting)
     - Mamp (virtual hosting)
     - [Bachtmod](http://www.lagentesoft.com/batchmod/) (file permissions)
+    - [VirtualBox](http://virtualbox.org) 
 
 ## Legal ##
 
