@@ -5,7 +5,10 @@
      - a UNIX server (for [OJS](https://pkp.sfu.ca/ojs/) hosting)
     
 * Software
-     - Bootstrap editors
+     - [Open Journal System]((https://pkp.sfu.ca/ojs/))
+     - Bootstrap editors:
+          * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
+          * [Bootply](https://www.bootply.com/)
      - Lamp (virtual hosting)
      - Wamp (virtual hosting)
      - Mamp (virtual hosting)
