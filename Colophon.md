@@ -5,7 +5,9 @@
      - a UNIX server (for [OJS](https://pkp.sfu.ca/ojs/) hosting)
     
 * Software
-     - Bootstrap editors
+     - Bootstrap editors:
+          * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
+          * [Bootply](https://www.bootply.com/)
      - Lamp ((local server environment on Linux)
      - Wamp (local server environment on Windows)
      - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
