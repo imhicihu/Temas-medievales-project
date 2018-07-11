@@ -6,11 +6,11 @@
     
 * Software
      - Bootstrap editors
-     - Lamp (virtual hosting)
-     - Wamp (virtual hosting)
-     - Mamp (virtual hosting)
+     - Lamp ((local server environment on Linux)
+     - Wamp (local server environment on Windows)
+     - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
      - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions)
-     - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
+     - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
      - [VirtualBox](http://virtualbox.org): virtual operating systems
      - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
      - Table HTML editor:
