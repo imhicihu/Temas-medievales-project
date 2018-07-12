@@ -10,5 +10,9 @@ Recommended server requirements:
 	  
 	  
 ## Backup
-    * Perform a manual backup when upgrading or performing
-	  maintenance
+    * Perform a manual backup when upgrading or performing maintenance
+	
+## Theme
+    * If a Parent theme is specified, the Parent theme's template directory.
+    * The OJS or OMP template directory
+    * The `lib/pkp/templates/` directory within the application.
