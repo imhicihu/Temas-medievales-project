@@ -16,3 +16,4 @@ Recommended server requirements:
     * If a Parent theme is specified, the Parent theme's template directory.
     * The OJS or OMP template directory
     * The `lib/pkp/templates/` directory within the application.
+	* Hint: To override a Parent Theme's template, copy that template file into the same location in the Child Theme.
