@@ -1,2 +1,3 @@
 ## OJS stuff
 * [Installation](https://openjournalsystems.com/ojs-3-user-guide/) good practices on server (and virtualized mode too)
+* [OJS PKP Theming Guide](https://pkp.gitbook.io/pkp-theming-guide)
