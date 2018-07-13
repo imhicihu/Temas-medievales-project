@@ -5,7 +5,8 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 ### What is this repository for? ###
 
 * Quick summary
-    - Web for the journal Temas Medievales
+    - Web for the journal _Temas Medievales_
+    - More sketches can be found [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues/5/rough-workflow-bocetos-p-gina-web>)
     ![desktop.png](https://bitbucket.org/repo/R9y9j6K/images/3731280796-desktop.png)
     > Desktop responsive model
 * Version 1.01
