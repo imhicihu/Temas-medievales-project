@@ -32,7 +32,7 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues?status=new&status=openhttps://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/issues)
+* Check them on [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues)
 
 ### Changelog ###
 
