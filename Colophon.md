@@ -5,11 +5,12 @@
      - a UNIX server (for [OJS](https://pkp.sfu.ca/ojs/) hosting)
     
 * Software
+     - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
      - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
-     - [Lamp](https://bitnami.com/stack/lamp/installer) ((local server environment on Linux)
+     - [Lamp](https://bitnami.com/stack/lamp/installer) (local server environment on Linux)
      - [Wamp](http://www.wampserver.com/en/) (local server environment on Windows)
      - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
      - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
@@ -20,6 +21,9 @@
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+
+* Online tools
+     - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
 
 ## Legal ##
 
