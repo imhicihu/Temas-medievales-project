@@ -26,9 +26,7 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 		 - Javascript console
 	- Web developer (Google Chrome extension)
 * Configuration
-    - Fork this repo. Adapt the template to your needs. Enhance it. Share.
-* Dependencies
-    - The less, the better.
+    - Fork this repo. Adapt the template to your needs. Enhance it. Share it.
 
 ### Issues ###
 
