@@ -14,19 +14,30 @@ In a nutshell, website of Temas Medievales. Some internal prototypes and some _p
 ### How do I get set up? ###
 
 * Summary of set up
-    - a webserver
+     - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+     - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+     - Bootstrap editors:
+          * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
+          * [Bootply](https://www.bootply.com/)
+     - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
+     - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
+     - [VirtualBox](http://virtualbox.org): virtual operating systems
+     - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
+     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
+     - Table HTML editor:
+          * [DIV Table](https://divtable.com/generator/)
+          * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
 	- a server simulator (for proof and testing)
-         + Wamp
-         + Lamp
-         + Mamp
+         - [Lamp](https://bitnami.com/stack/lamp/installer) (local server environment on Linux)
+         - [Wamp](http://www.wampserver.com/en/) (local server environment on Windows)
+         - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
 	- a stable internet connection
-	- Google Chrome browser
-	- Enabled Google Chrome internal tools
-	     - Developer tools
-		 - Javascript console
-	- Web developer (Google Chrome extension)
+	- Google Chrome browser web developers tools
+	     - Enable Developer tools
+		 - Enable Javascript console
+
 * Configuration
-    - Fork this repo. Adapt the template to your needs. Enhance it. Share it.
+    - [Fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) this repo. Adapt the template to your needs. Enhance it. Share it.
 
 ### Issues ###
 
