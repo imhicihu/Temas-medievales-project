@@ -24,6 +24,7 @@
 
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
+     - [Browsersync](https://browsersync.io/)
 
 ## Legal ##
 
