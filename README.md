@@ -1,6 +1,8 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # RATIONALE #
 
-In a nutshell, website of Temas Medievales. Some internal prototypes and some _proof of concepts_/web-tests/ to pass. Some goals: Retina proof, responsive mode, mobile friendly _et alia_...
+In a nutshell, a website of Temas Medievales journal. Some internal prototypes and some _proof of concepts_/web-tests/ to pass. Some goals: Retina proof, responsive mode, mobile friendly _et alia_...
 
 ### What is this repository for? ###
 
