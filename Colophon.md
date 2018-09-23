@@ -6,6 +6,7 @@
     
 * Software
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+     - [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
      - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
