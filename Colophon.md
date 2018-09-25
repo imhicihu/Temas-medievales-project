@@ -17,6 +17,7 @@
           - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
      - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
      - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
+     - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      - [VirtualBox](http://virtualbox.org): virtual operating systems
      - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
