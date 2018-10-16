@@ -20,6 +20,7 @@
      - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      - [VirtualBox](http://virtualbox.org): virtual operating systems
      - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
+     - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
      - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
@@ -27,7 +28,7 @@
 
 * Online tools
      - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
-     - [Browsersync](https://browsersync.io/)
+     - [Browsersync](https://browsersync.io/): browser testing across multiple devices and environments
 
 ## Legal ##
 
