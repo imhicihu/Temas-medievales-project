@@ -1,4 +1,5 @@
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![issues-open](https://img.shields.io/badge/issues-open-green.svg)
 
 # RATIONALE #
 
@@ -17,7 +18,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 
 * Summary of set up
      - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
-     - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
+     - [Open Journal Systems](https://pkp.sfu.ca/ojs/) (open source journal platform)
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
@@ -63,7 +64,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/temas-medievales-project/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
