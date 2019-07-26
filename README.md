@@ -42,6 +42,11 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 * Configuration
     - [Fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) this repo. Adapt the template to your needs. Enhance it. Share it.
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Scopus Metadata](https://bitbucket.org/imhicihu/scopus-metadata/src/)
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues)
@@ -50,22 +55,12 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/temas-medievales-project/commits/) section for the current status
 
-### Contribution guidelines ###
-
-* Writing tests
-    - Fork this repo. 
-* Code review
-    - Fork this repo
-* Other guidelines
-    - Not available at this moment.
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/temas-medievales-project/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
