@@ -45,6 +45,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 ### Related repositories ###
 
 * Some repositories linked with this project:
+     - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/)
      - [Scopus Metadata](https://bitbucket.org/imhicihu/scopus-metadata/src/)
 
 ### Issues ###
