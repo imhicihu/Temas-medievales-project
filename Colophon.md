@@ -16,6 +16,7 @@
           - [Lamp](https://bitnami.com/stack/lamp/installer) (local server environment on Linux)
           - [Wamp](http://www.wampserver.com/en/) (local server environment on Windows)
           - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
+          - [httpster](https://github.com/SimbCo/httpster) 
      - System permissions:
           - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
           - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
