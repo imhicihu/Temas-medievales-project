@@ -37,8 +37,11 @@
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
 
 * Online tools
-     - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
-     - [Browsersync](https://browsersync.io/): browser testing across multiple devices and environments
+     - Browser tests
+          - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
+          - [Browsersync](https://browsersync.io/): browser testing across multiple devices and environments
+     - Plugins (curated and discriminated by topics)
+          - [Awesome design plugins](https://flawlessapp.io/designplugins)
 
 ## Legal ##
 
