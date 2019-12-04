@@ -63,6 +63,10 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/temas-medievales-project/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/temas-medievales-project/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
