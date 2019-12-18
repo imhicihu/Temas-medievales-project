@@ -38,10 +38,12 @@
 
 * Online tools
      - Browser tests
-          - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
+          - [Screenfly](http://quirktools.com/screenfly/): test your website at different screen resolutions
           - [Browsersync](https://browsersync.io/): browser testing across multiple devices and environments
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
+     - Miscellaneous
+          - [Word counter](https://wordcounttools.com/)
 
 ## Legal ##
 
