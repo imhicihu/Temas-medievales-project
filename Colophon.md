@@ -5,10 +5,10 @@
      - a UNIX server (for [OJS](https://pkp.sfu.ca/ojs/) hosting)
     
 * Software
+     - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      * Image editors:
           - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
           - [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
-     - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      * Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
@@ -29,17 +29,18 @@
           - [Atom Editor](http://atom.io)
      * Code sharing
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
      - Table HTML editor:
           * [DIV Table](https://divtable.com/generator/)
           * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
      - Accesibility:
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
+     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
 
 * Online tools
      - Browser tests
           - [Screenfly](http://quirktools.com/screenfly/): test your website at different screen resolutions
           - [Browsersync](https://browsersync.io/): browser testing across multiple devices and environments
+          - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
      - Miscellaneous
