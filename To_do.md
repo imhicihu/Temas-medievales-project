@@ -2,3 +2,4 @@
 * ~~Migrate Del.icio.us gathered links to Evernote~~
 * make tutorial/Good practices on OJS installation on MacOSX
 * https://freebiesupply.com/blog/css-text-effects-from-codepen/
+* [instant.page](https://instant.page/): internal URL prefetch tool
