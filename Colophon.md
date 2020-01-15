@@ -22,7 +22,7 @@
           - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      * Virtual environments (to test virtual servers)
-          - [VirtualBox](http://virtualbox.org): virtual operating systems
+          - [VirtualBox](http://virtualbox.org)
      - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
      * Code editor
           - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
@@ -43,6 +43,8 @@
           - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
+     - Image conpressor
+   	      - [Sqoosh](https://squoosh.app/)
      - Miscellaneous
           - [Word counter](https://wordcounttools.com/)
 
