@@ -46,10 +46,16 @@
           - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
-     - Image conpressor
+     - Typography converter
+          - [Online font converter](https://onlinefontconverter.com/)
+          - [Transfonter](https://transfonter.org/)
+          - [FontConverter](https://www.fontconverter.org/)
+          - [Font-converter](https://www.font-converter.net/en)
+     - Image compressor
    	      - [Sqoosh](https://squoosh.app/)
      - Miscellaneous
           - [Word counter](https://wordcounttools.com/)
+
 
 ## Legal ##
 
