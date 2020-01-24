@@ -7,7 +7,7 @@
 * Software
      - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      * Image editors:
-          - [Gimp](https://www.gimp.org/) (graphics manipulation / editor)
+          - [Gimp](https://www.gimp.org/): graphics editing
           - [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
      * Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
@@ -20,21 +20,24 @@
      - System permissions:
           - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
           - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
-     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
      * Virtual environments (to test virtual servers)
           - [VirtualBox](http://virtualbox.org)
-     - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
      * Code editor
           - [Aquamacs Emacs](http://aquamacs.org/download-release.shtml): Editor for Text, HTML, LaTeX, C++, Java, Python, R, Perl, Ruby, PHP, and more...
           - [Atom Editor](http://atom.io)
      * Code sharing
           - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
      - Table HTML editor:
-          * [DIV Table](https://divtable.com/generator/)
-          * [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+          - [DIV Table](https://divtable.com/generator/)
+          - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+     - Technical documentation
+          - [LaTeX](https://www.latex-project.org/get/): Typesetting of mathematical formulas (_et alia_)
      - Accesibility:
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
-     - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
+     - Miscellaneous:
+          - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
+          - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+          - [RGB to Hex](https://www.google.com.ar/search?q=rgb+to+hex&oq=rgb+to&aqs=chrome.0.0l2j69i57j0l3.2825j1j1&sourceid=chrome&ie=UTF-8)
 
 * Online tools
      - Browser tests
