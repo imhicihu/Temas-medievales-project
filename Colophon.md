@@ -31,7 +31,7 @@
           - [DIV Table](https://divtable.com/generator/)
           - [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
      - Technical documentation
-          - [LaTeX](https://www.latex-project.org/get/): Typesetting of mathematical formulas (_et alia_)
+          - [LaTeX](https://www.latex-project.org/get/): Typesetting of mathematical formulas (_et alia_). Check [equation editors](https://bitbucket.org/imhicihu/temas-medievales-project/src/master/equation_editors.md) for more specifications
      - Accesibility:
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
      - Miscellaneous:
