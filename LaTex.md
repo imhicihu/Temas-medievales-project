@@ -1,12 +1,26 @@
 * General considerations
     - software:
-        - [MacTeX](http://www.tug.org/mactex/): for the macosx environment
-        - [TeX Live](https://www.tug.org/texlive/): for the Linux environment
-        - [Miktex](https://miktex.org/download): for the Windows environment
+        - [Microsoft Word® Equation editor](https://support.office.com/en-us/article/equation-editor-6eac7d71-3c74-437b-80d3-c7dea24fdf3f)
+        - [LibreOffice equation and math editor](https://www.libreoffice.org/discover/math/)
+        - [MacTeX](http://www.tug.org/mactex/): software for the macosx environment
+        - [TeX Live](https://www.tug.org/texlive/): software for the Linux environment
+        - [Miktex](https://miktex.org/download): software for the Windows environment
         - [Overleaf](https://www.overleaf.com/): online editor of LaTex documents
         - [LaTexBase](https://latexbase.com/): online editor of LaTex documents
         - [Papeeria](https://papeeria.com/): online editor of LaTex documents
-    - fonts:
+        - [CodingGround LaTex editor](https://www.tutorialspoint.com/online_latex_editor.php): online editor of LaTex documents
+        - [CodeCogs eqneditor](https://www.codecogs.com/latex/eqneditor.php): online editor of LaTex documents
+    - typography:
         - all the fonts of the document must accomplish with the western format characters
-        - in case of chinese, vietnamese, cyrilic (or non-western characters) fonts, those fonts must be supplied (`ttf` file format allowed)
+        - in case of use of [chinese](https://en.wikipedia.org/wiki/Chinese_characters), [vietnamese](https://en.wikipedia.org/wiki/Vietnamese_alphabet), [egyptian hieroglyphs](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs),  [cyrillic](https://en.wikipedia.org/wiki/Cyrillic_script), [armenian](https://en.wikipedia.org/wiki/Armenian_alphabet), [coptic](https://en.wikipedia.org/wiki/Coptic_alphabet) among others typographic fonts, those fonts must be supplied (only `.ttf` file format allowed) for proper rendering. In case of another file format of your font(s), please ask.
+    - Useful links:
+        - Tutorials
+            - [Video tutorials on various LaTeX topics](https://www.youtube.com/user/ShareLaTeX)
+            - [Absolute begginers, document structure, formatting, et alia](https://www.andy-roberts.net/writing/latex)
+            - [FAQ's]
+                * [Visual LaTeX FAQ](http://www.ctan.org/tex-archive/info/visualFAQ/visualFAQ.pdf)
+                * [TeX Frequently Asked Question List](https://texfaq.org/)
+                * [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com/)
+                * [LaTeX Community](http://www.latex-community.org/)
+                * [TeX and LaTeX documentation](http://www.texdoc.net/)
         
