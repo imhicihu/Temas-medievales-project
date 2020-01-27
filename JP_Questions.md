@@ -1,2 +1,2 @@
-* segÃºn `Nuevos criterios de Latindex junio 2018.pptx`
-    - en filmina #35: agregar `membrete bibliogrÃ¡fico xxxx`
+* según [Nuevos criterios de Latindex junio 2018.pptx](https://bitbucket.org/imhicihu/temas-medievales-project/downloads/Nuevos_criterios_de_Latindex_junio_2018.pptx)
+    - en filmina #35: agregar `membrete bibliográfico xxxx`
