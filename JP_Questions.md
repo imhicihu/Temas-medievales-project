@@ -8,6 +8,7 @@
     - filmina 62: `plagio`:
         - https://github.com/architshukla/Plagiarism-Checker
         - https://github.com/jatanrathod/Idea-Plagiarism
-        - 
+        - https://github.com/josemmo/plagpatrol
+        - ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
