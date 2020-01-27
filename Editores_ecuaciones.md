@@ -13,6 +13,8 @@
     - tipografía:
         - todas las fuentes deben cumplir con el formato de codificación de caracteres [UTF-8](https://es.wikipedia.org/wiki/UTF-8)
         - en caso de utilizar fuentes de idiomas [chino](https://es.wikipedia.org/wiki/Sinograma), [vietnamita](https://es.wikipedia.org/wiki/Alfabeto_vietnamita), [jeroglíficos egipcios](https://es.wikipedia.org/wiki/Jerogl%C3%ADficos_egipcios),  [cirílico](https://es.wikipedia.org/wiki/Alfabeto_cir%C3%ADlico), [armenio](https://es.wikipedia.org/wiki/Alfabeto_armenio), [copto](https://es.wikipedia.org/wiki/Alfabeto_copto) entre otros casos de familias tipográficas no occidentales, dichas fuentes deben ser suministradas (al momento, sólo fuentes en formato .[`ttf`](https://es.wikipedia.org/wiki/TrueType)). En caso de estar en otro formato (sea formatos `.otf`, `.eof`, `.woff`), consultar
+        - para máxima compatibilidad, en todas sus ecuaciones matemáticas utilice la tipografía [Google Noto](https://es.wikipedia.org/wiki/Google_Noto). Se obtiene [aquí](https://www.google.com/get/noto/)
+        - ![noto-font-google.gif](https://bitbucket.org/repo/rpybXp8/images/652861917-noto-font-google.gif)
     - Enlaces varios:
         - Tutorials
             - [Video-tutoriales acerca de varios tópicos relacionados con documentos en formato LaTeX](https://www.youtube.com/user/ShareLaTeX)
