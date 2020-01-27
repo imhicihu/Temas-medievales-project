@@ -2,5 +2,12 @@
     - en filmina #35: agregar `membrete bibliográfico xxxx`
     - filmina 51 y 52: núcleo básico, ??
     - filmina 54: ??
+    - filmina 57: ??
+    - filmina 59: ??
+    - filmina 60: ??
+    - filmina 62: `plagio`:
+        - https://github.com/architshukla/Plagiarism-Checker
+        - https://github.com/jatanrathod/Idea-Plagiarism
+        - 
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
