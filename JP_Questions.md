@@ -17,6 +17,9 @@
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
         - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
         - https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator  ~~(do not found a way to install, even in `localhost` mode) > there is some `.php` files...~~ Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
-        - ~~https://github.com/gitplag/moss-api  (docker image)~~     
+        - ~~https://github.com/gitplag/moss-api  (docker image)~~
+        - https://github.com/frizensami/plagiarism-basic
+        - https://github.com/MandarGogate/Plaker  -> https://dev.mandargogate.com/plaker  -> installation: docker image and python script to run  
+        - 
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
