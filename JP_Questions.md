@@ -16,6 +16,7 @@
         - https://www.plagiarism-checker.me/
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
         - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
+        - https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator  (do not found a way to install, even in `localhost` mode) > there is some `.php` files...
         
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
