@@ -14,11 +14,12 @@
         - ~~https://github.com/gitplag/moss-api  (docker image)~~
         - https://github.com/frizensami/plagiarism-basic
         - https://github.com/MandarGogate/Plaker  -> https://dev.mandargogate.com/plaker  -> installation: docker image and python script to run  
-        - https://github.com/TristanPerry/plagiarism-detection-software  (via previous Evernote session from other macbook): needs both python and django installations. And the author warns about some deprecated modules along the technical timeline
+        - https://github.com/TristanPerry/plagiarism-detection-software -> needs both python and django installations. And the author warns about some deprecated modules along the technical timeline
         - [Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/): (via previous Evernote session from other macbook)
         - [HelioBLAST](https://helioblast.heliotext.com/) -> submissions are limited to 1,000 words ∣ queries is against Medline/PubMed
         - ~~https://github.com/codeclassroom/PlagCheck -> only for software code lines comparisons~~
         - https://www.crossref.org/services/similarity-check/
+        - https://docs.pkp.sfu.ca/crossref-ojs-manual/en/simCheck  (plug-in for the OJS platform. Enable it!)
         - http://plagiarisma.net/
         - https://www.duplichecker.com/ (limnit of 1000 words limit per search)
         - https://smallseotools.com/plagiarism-checker/
@@ -32,11 +33,13 @@
         - http://www.plagium.com/
         - https://www.paperrater.com/
         - https://academicplagiarism.com/
+        - https://www.bibme.org/grammar-and-plagiarism/
+        - https://academichelp.net/check-paper-for-plagiarism/
         - https://edubirdie.com/plagiarism-checker
         - https://searchenginereports.net/plagiarism-checker
         - https://www.copyscape.com/
         - https://www.quetext.com/
-        - https://noplag.com/
+        - https://noplag.com/free-plagiarism-checker/
         - https://plagiarismcheckerx.com/
         - https://paraphrase.projecttopics.org/free-plagiarism-checker-turnitin-alternative-software
         - https://plag.co/plagiarism-check.php
