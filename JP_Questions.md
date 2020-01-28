@@ -22,10 +22,16 @@
         - http://plagiarisma.net/
         - https://www.duplichecker.com/ (limnit of 1000 words limit per search)
         - https://smallseotools.com/plagiarism-checker/
-        - https://www.grammarly.com/plagiarism-checker
+        - https://www.grammarly.com/plagiarism-checker/
         - https://www.plagiarismsoftware.net/
+        - https://sourceforge.net/projects/antiplagiarismc/ -> (java based)
         - http://www.dustball.com/cs/verificador.plagio/
         - https://www.docoloc.de/
+        - http://www.plagium.com/
+        - https://www.paperrater.com/
+        - https://academicplagiarism.com/
+        - https://searchenginereports.net/plagiarism-checker
+        - https://www.copyscape.com/
         - https://noplag.com/
         - https://plagiarismcheckerx.com/
         - https://plag.co/plagiarism-check.php
