@@ -37,6 +37,8 @@
         - https://academichelp.net/check-paper-for-plagiarism/
         - https://edubirdie.com/plagiarism-checker
         - https://searchenginereports.net/plagiarism-checker
+        - https://paperleaf.ca/detecteur-de-plagiat/
+        - https://www.dmca.com/scan/default.aspx -> (2 free scans)
         - https://www.copyscape.com/
         - https://www.quetext.com/
         - https://noplag.com/free-plagiarism-checker/
