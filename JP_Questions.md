@@ -6,6 +6,7 @@
     - filmina 59: ??
     - filmina 60: ??
     - filmina 62: `plagio`:
+        - [Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/): (via previous Evernote session from other macbook)
         - https://github.com/architshukla/Plagiarism-Checker
         - https://github.com/jatanrathod/Idea-Plagiarism
         - https://github.com/josemmo/plagpatrol
@@ -20,6 +21,6 @@
         - ~~https://github.com/gitplag/moss-api  (docker image)~~
         - https://github.com/frizensami/plagiarism-basic
         - https://github.com/MandarGogate/Plaker  -> https://dev.mandargogate.com/plaker  -> installation: docker image and python script to run  
-        - 
+        - https://github.com/TristanPerry/plagiarism-detection-software  (via previous Evernote session from other macbook): needs both python and django installations. And the author warns about some deprecated modules along the technical timeline
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
