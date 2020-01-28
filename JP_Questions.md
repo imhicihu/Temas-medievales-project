@@ -24,20 +24,25 @@
         - https://smallseotools.com/plagiarism-checker/
         - https://www.grammarly.com/plagiarism-checker/
         - https://www.plagiarismsoftware.net/
+        - https://plagiarismdetector.net/
         - https://sourceforge.net/projects/antiplagiarismc/ -> (java based)
         - http://www.dustball.com/cs/verificador.plagio/
+        - http://www.checktext.org/
         - https://www.docoloc.de/
         - http://www.plagium.com/
         - https://www.paperrater.com/
         - https://academicplagiarism.com/
+        - https://edubirdie.com/plagiarism-checker
         - https://searchenginereports.net/plagiarism-checker
         - https://www.copyscape.com/
+        - https://www.quetext.com/
         - https://noplag.com/
         - https://plagiarismcheckerx.com/
+        - https://paraphrase.projecttopics.org/free-plagiarism-checker-turnitin-alternative-software
         - https://plag.co/plagiarism-check.php
         - R query about `R package plagiarism`-> https://www.reddit.com/r/rstats/comments/68nmbm/plagiarism_analysis_in_r/
         - http://similar.rexamine.com/
-        - https://www.reddit.com/r/Plagiarism/
+        - https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp
         - https://www.plagiarism-checker.me/
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
         - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
