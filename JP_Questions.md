@@ -8,11 +8,14 @@
     - filmina 62: `plagio`:
         - [Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/): (via previous Evernote session from other macbook)
         - https://github.com/architshukla/Plagiarism-Checker
+        - ~~https://github.com/codeclassroom/PlagCheck -> only for software code lines comparisons~~
         - https://github.com/jatanrathod/Idea-Plagiarism
+        - https://plag.co/plagiarism-check.php
         - https://github.com/josemmo/plagpatrol
         - ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
         - R query about `R package plagiarism`-> https://www.reddit.com/r/rstats/comments/68nmbm/plagiarism_analysis_in_r/
         - http://similar.rexamine.com/
+        - https://www.duplichecker.com/ (limnit of 1000 words limit per search)
         - https://www.reddit.com/r/Plagiarism/
         - https://www.plagiarism-checker.me/
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
