@@ -1,6 +1,6 @@
-* según [Nuevos criterios de Latindex junio 2018.pptx](https://bitbucket.org/imhicihu/temas-medievales-project/downloads/Nuevos_criterios_de_Latindex_junio_2018.pptx)
-    - en filmina #35: agregar `membrete bibliográfico xxxx`
-    - filmina 51 y 52: núcleo básico, ??
+* segÃºn [Nuevos criterios de Latindex junio 2018.pptx](https://bitbucket.org/imhicihu/temas-medievales-project/downloads/Nuevos_criterios_de_Latindex_junio_2018.pptx)
+    - en filmina #35: agregar `membrete bibliogrÃ¡fico xxxx`
+    - filmina 51 y 52: nÃºcleo bÃ¡sico, ??
     - filmina 54: ??
     - filmina 57: ??
     - filmina 59: ??
@@ -8,6 +8,7 @@
     - filmina 62: `plagio`:
         - [Project Academic Knowledge](https://www.microsoft.com/en-us/research/project/academic-knowledge/): (via previous Evernote session from other macbook)
         - https://github.com/architshukla/Plagiarism-Checker
+        - [HelioBLAST](https://helioblast.heliotext.com/) -> submissions are limited to 1,000 words âˆ£ queries is against Medline/PubMed
         - ~~https://github.com/codeclassroom/PlagCheck -> only for software code lines comparisons~~
         - https://github.com/jatanrathod/Idea-Plagiarism
         - https://plag.co/plagiarism-check.php
@@ -26,4 +27,4 @@
         - https://github.com/MandarGogate/Plaker  -> https://dev.mandargogate.com/plaker  -> installation: docker image and python script to run  
         - https://github.com/TristanPerry/plagiarism-detection-software  (via previous Evernote session from other macbook): needs both python and django installations. And the author warns about some deprecated modules along the technical timeline
     
-* se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
+* se actualizÃ³ [`QuickSubmit`](https://github.com/pkp/quickSubmit)
