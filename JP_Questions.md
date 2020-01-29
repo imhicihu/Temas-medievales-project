@@ -59,4 +59,5 @@
     - filmina 83: metadatos de indexación (ejemplo)
     - filmina 90: la revista debe incluir servicios agregados como RSS; multimedia (video, sonido); actualización constante (artículo por artículo); acceso a datos crudos (estadísticas y anexos); tener presencia en redes sociales de ámbito académico; facilidades para que personas con diferentes discapacidades puedan acceder al contenido de la revista, así como indicaciones sobre cómo citar los artículos, etc.
     - filmina 105: OCLC -> https://www.oclc.org/en/membership/become-a-member.html
+    - filmina 110: software para windows y macosx [Publish or perish](https://harzing.com/resources/publish-or-perish)
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
