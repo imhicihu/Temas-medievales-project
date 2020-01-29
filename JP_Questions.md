@@ -60,4 +60,9 @@
     - filmina 90: la revista debe incluir servicios agregados como RSS; multimedia (video, sonido); actualización constante (artículo por artículo); acceso a datos crudos (estadísticas y anexos); tener presencia en redes sociales de ámbito académico; facilidades para que personas con diferentes discapacidades puedan acceder al contenido de la revista, así como indicaciones sobre cómo citar los artículos, etc.
     - filmina 105: OCLC -> https://www.oclc.org/en/membership/become-a-member.html
     - filmina 110: software para windows y macosx [Publish or perish](https://harzing.com/resources/publish-or-perish)
+    - filmina 111: preservación digital 
+            - -> https://clockss.org/join-clockss/  
+            - Se debe detallar sus políticas de preservación
+            - [cómo saber si se está guardando nuestra revista en Lockss](https://forum.pkp.sfu.ca/t/como-saber-si-los-articulos-de-nuestra-revista-se-estan-guardando-en-lockss/47063)
+            - [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/): Technical warning: _PKP PN is available for users of OJS 2.4.8. It is not yet available for users of OJS 3.x._ Updates about the progress of a new release can be found [here](https://forum.pkp.sfu.ca/t/installation-of-pkp-pln-plugin-in-ojs-3-0-2/32728/9)
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
