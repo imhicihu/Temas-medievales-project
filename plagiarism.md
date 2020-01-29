@@ -2,7 +2,7 @@
 ------------- | -------------
 https://github.com/architshukla/Plagiarism-Checker |
 https://github.com/jatanrathod/Idea-Plagiarism |
-https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator | (do not found a way to install, even in localhost mode) > there is some `.php` files... Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
+https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator | ~~do not found a way to install, even in `localhost` mode~~ > there is some `.php` files... Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
 https://github.com/gitplag/moss-api | it is a docker image, so need a `virtualenv` procedure to run. At this moment, awkward
 https://github.com/frizensami/plagiarism-basic |
 https://github.com/MandarGogate/Plaker  |
