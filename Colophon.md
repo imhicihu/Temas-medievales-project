@@ -34,6 +34,8 @@
           - [LaTeX](https://www.latex-project.org/get/): Typesetting of mathematical formulas (_et alia_). Check [equation editors](https://bitbucket.org/imhicihu/temas-medievales-project/src/master/equation_editors.md) for more specifications
      - Accesibility:
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
+     - SEO tools
+          - [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
      - Miscellaneous:
           - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
           - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
