@@ -1,8 +1,10 @@
 ## Technical requeriments ##
 
 * Hardware
-     - Macbook 13 inch
+     - Macbook 13 inch (not mandatory, but useful for our technical conditions)
      - a UNIX server (for [OJS](https://pkp.sfu.ca/ojs/) hosting)
+     - _Hosting_: Consorcio Saavedra 15
+     - _Bandwidth_: Consorcio Saavedra 15
     
 * Software
      - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
@@ -35,7 +37,7 @@
      - Accesibility:
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
      - SEO tools
-          - [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
+          - [Dublin core form generator](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
      - Miscellaneous:
           - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
           - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
