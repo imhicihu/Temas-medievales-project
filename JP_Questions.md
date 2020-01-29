@@ -51,5 +51,7 @@
         - https://www.plagiarism-checker.me/
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
         - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
+    - filmina 64: Procedimiento para el control de plagio
+    - filmina 84: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
     
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
