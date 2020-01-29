@@ -55,5 +55,8 @@
     - filmina 78: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
     - filmina 82: Metadatos & DublinCore: more data can be found [here](https://www.dublincore.org/specifications/dublin-core/dc-html/)
         - check this [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php) via [Cromaidea post](https://www.cromaidea.com/blog/posicionamiento-seo-con-la-utlizacion-de-dublin-core-metadata.html)
-        
+        - verificar que cada artículo esté descrito con metaetiquetas. Es obligatorio el uso de una norma de metaetiquetas
+    - filmina 83: metadatos de indexación (ejemplo)
+    - filmina 90: la revista debe incluir servicios agregados como RSS; multimedia (video, sonido); actualización constante (artículo por artículo); acceso a datos crudos (estadísticas y anexos); tener presencia en redes sociales de ámbito académico; facilidades para que personas con diferentes discapacidades puedan acceder al contenido de la revista, así como indicaciones sobre cómo citar los artículos, etc.
+    - filmina 105: OCLC -> https://www.oclc.org/en/membership/become-a-member.html
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
