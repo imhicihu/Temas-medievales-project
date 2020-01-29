@@ -52,6 +52,8 @@
         - [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/)
         - [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
     - filmina 64: Procedimiento para el control de plagio
-    - filmina 84: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
-    
+    - filmina 78: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
+    - filmina 82: Metadatos & DublinCore: more data can be found [here](https://www.dublincore.org/specifications/dublin-core/dc-html/)
+        - check this [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php) via [Cromaidea post](https://www.cromaidea.com/blog/posicionamiento-seo-con-la-utlizacion-de-dublin-core-metadata.html)
+        
 * se actualizó [`QuickSubmit`](https://github.com/pkp/quickSubmit)
