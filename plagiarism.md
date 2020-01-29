@@ -2,8 +2,7 @@
 ------------- | -------------
 https://github.com/architshukla/Plagiarism-Checker |
 https://github.com/jatanrathod/Idea-Plagiarism |
-https://github.com/josemmo/plagpatrol |
-https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator |(do not found a way to install, even in localhost mode) > there is some .php files... Clone or download the repo to localhost. Uncompress the repo and go to test.php.
+https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator | (do not found a way to install, even in localhost mode) > there is some `.php` files... Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
 https://github.com/gitplag/moss-api | it is a docker image, so need a `virtualenv` procedure to run. At this moment, awkward
 https://github.com/frizensami/plagiarism-basic |
 https://github.com/MandarGogate/Plaker  |
@@ -45,3 +44,4 @@ https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp |
 https://www.plagiarism-checker.me/
 [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/) | Plagiarism Detection Software
 [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
+https://github.com/josemmo/plagpatrol | ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
