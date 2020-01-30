@@ -44,4 +44,4 @@ https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp |
 https://www.plagiarism-checker.me/
 [Sherlock - Plagiarism Detection Software](https://warwick.ac.uk/fac/sci/dcs/research/ias/software/sherlock/) | Plagiarism Detection Software
 [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
-https://github.com/josemmo/plagpatrol | ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
+~~https://github.com/josemmo/plagpatrol~~ | ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
