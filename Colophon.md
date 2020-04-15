@@ -55,6 +55,8 @@
           - [Transfonter](https://transfonter.org/)
           - [FontConverter](https://www.fontconverter.org/)
           - [Font-converter](https://www.font-converter.net/en)
+     - Checker, validator, linting (_et alia_)
+          - [WebHint](https://github.com/webhintio/hint): improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors
      - Image compressor
    	      - [Sqoosh](https://squoosh.app/)
      - Miscellaneous
