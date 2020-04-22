@@ -50,6 +50,8 @@
           - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
+     - Accesibility
+          - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) plus Firefox & Google Chrome [extensions](https://wave.webaim.org/extension/)
      - Typography converter
           - [Online font converter](https://onlinefontconverter.com/)
           - [Transfonter](https://transfonter.org/)
