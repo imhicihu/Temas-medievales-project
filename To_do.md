@@ -5,3 +5,4 @@
 * [instant.page](https://instant.page/): internal URL prefetch tool
 * [horizontal page scroll indicator](http://alssndro.github.io/page-scroll-indicator/jquery-example.html)
 * [A11y Project checklist of accesibility](https://a11yproject.com/checklist/): Determine how accessible your site is
+* dark mode support -> `darkmode.js`
