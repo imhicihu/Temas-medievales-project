@@ -38,6 +38,8 @@
           - [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/): accesibility
      - SEO tools
           - [Dublin core form generator](https://www.cromaidea.com/dublin-core/en-dublin-core.php)
+     - Internationalization
+          - [frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js): internationalization (i18n) module for javascript
      - Miscellaneous:
           - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
           - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
