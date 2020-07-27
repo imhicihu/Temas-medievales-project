@@ -1,3 +1,4 @@
+* [markdown to html conversion](https://atom.io/packages/markdown-to-html) --> check with Juan Pablo
 * ~~Bootstrap stuff (to edit the enclosed themes)~~  (added in the Colophon.md)
 * ~~Migrate Del.icio.us gathered links to Evernote~~
 * make Tutorial/Good practices on OJS installation on MacOSX
