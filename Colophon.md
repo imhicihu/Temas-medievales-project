@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
      - Macbook 13 inch (not mandatory, but useful for our technical conditions)
