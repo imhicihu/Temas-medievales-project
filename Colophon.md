@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - Macbook 13 inch (not mandatory, but useful for our technical conditions)
@@ -71,6 +71,5 @@
           - [Word counter](https://wordcounttools.com/)
 
 
-## Legal ##
-
-* All trademarks are the property of their respective owners.
+### Legal
+* All trademarks are the property of their respective owners
