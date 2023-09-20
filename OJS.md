@@ -1,5 +1,5 @@
-System Requirements
--------------------
+### System Requirements
+
 Recommended server requirements:
 
 	* PHP >= 5.6
@@ -8,10 +8,10 @@ Recommended server requirements:
 	* Operating system: Any Operating System including Linux, BSD, Solaris, MacOSX, Windows
 	  
 	  
-## Backup
+### Backup
     * Perform a manual backup when upgrading or performing maintenance
 	
-## Theme
+### Theme
     * If a Parent theme is specified, the Parent theme's template directory.
     * The OJS or OMP template directory
     * The "lib/pkp/templates/" directory within the application.
