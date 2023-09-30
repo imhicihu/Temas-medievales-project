@@ -27,9 +27,9 @@
             - [Video tutorials on various LaTeX topics](https://www.youtube.com/user/ShareLaTeX)
             - [Absolute begginers, document structure, formatting, et alia](https://www.andy-roberts.net/writing/latex)
         - [FAQ's]
-                * [Visual LaTeX FAQ](http://www.ctan.org/tex-archive/info/visualFAQ/visualFAQ.pdf)
-                * [TeX Frequently Asked Question List](https://texfaq.org/)
-                * [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com/)
-                * [LaTeX Community](http://www.latex-community.org/)
-                * [TeX and LaTeX documentation](http://www.texdoc.net/)
+          - [Visual LaTeX FAQ](http://www.ctan.org/tex-archive/info/visualFAQ/visualFAQ.pdf)
+          - [TeX Frequently Asked Question List](https://texfaq.org/)
+          - [TeX - LaTeX Stack Exchange](http://tex.stackexchange.com/)
+          - [LaTeX Community](http://www.latex-community.org/)
+          - [TeX and LaTeX documentation](http://www.texdoc.net/)
         
