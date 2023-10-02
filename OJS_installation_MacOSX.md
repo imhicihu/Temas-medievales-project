@@ -1,3 +1,4 @@
+### Procedure
 * Install [Mamp](https://www.mamp.info/en/)
 * Download [OJS](https://pkp.sfu.ca/ojs/ojs_download/)
 * Unzip the file downloaded from the OJS site with an extension `.tar.gz` (ie. `ojs-3.1.1-1.tar.gz`) in this address `/Applications/MAMP/htdocs`
