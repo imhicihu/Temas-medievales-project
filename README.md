@@ -1,5 +1,5 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-wip](images/477405737-stability_work_in_progress.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -10,9 +10,8 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 * Quick summary
     - Web for the journal _Temas Medievales_
     - More sketches can be found [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues/5/rough-workflow-bocetos-p-gina-web>)
-    ![desktop.png](https://bitbucket.org/repo/R9y9j6K/images/3731280796-desktop.png)
+    ![desktop.png](images/3731280796-desktop.png)
     > Desktop responsive model
-* Version 1.01
 
 ### How do I get set up? ###
 
@@ -22,7 +21,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
      - Bootstrap editors:
           * [Bootstrap Magic](https://pikock.github.io/bootstrap-magic/)
           * [Bootply](https://www.bootply.com/)
-     - [Bachtmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
+     - [Batchmod](http://www.lagentesoft.com/batchmod/): (file permissions on MacOSX environments)
      - [GasMask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X (and to admin and manage Virtual Host on Mamp)
      - [VirtualBox](http://virtualbox.org): virtual operating systems
      - [Citation Styles (Journals)](https://github.com/citation-style-language/journals)
@@ -36,7 +35,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
          - [Mamp](https://www.mamp.info) (local server environment on MacOSX)
 	- a stable internet connection
 	- Google Chrome browser web developers tools
-	     - Enable Developer tools
+	   - Enable Developer tools
 		 - Enable Javascript console
 
 * Configuration
@@ -65,7 +64,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/temas-medievales-project/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
