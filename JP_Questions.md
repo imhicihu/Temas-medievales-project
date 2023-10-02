@@ -10,7 +10,7 @@
         - https://github.com/jatanrathod/Idea-Plagiarism
         - https://github.com/josemmo/plagpatrol
     <BR></BR> 
-      ![animation.gif](https://bitbucket.org/repo/R9y9j6K/images/3092326125-demo.gif)
+      ![animation.gif](images/3092326125-demo.gif)
         - https://github.com/FerreroJeremy/Plagiarized-Corpus-Generator  ~~(do not found a way to install, even in `localhost` mode) > there is some `.php` files...~~ Clone or download the repo to `localhost`. Uncompress the repo and go to `test.php`.
         - ~~https://github.com/gitplag/moss-api  (docker image)~~
         - https://github.com/frizensami/plagiarism-basic
@@ -22,7 +22,7 @@
         - https://www.crossref.org/services/similarity-check/
         - https://docs.pkp.sfu.ca/crossref-ojs-manual/en/simCheck  (plug-in for the OJS platform. Enable it!)
         - http://plagiarisma.net/
-        - https://www.duplichecker.com/ (limnit of 1000 words limit per search)
+        - https://www.duplichecker.com/ (limit of 1000 words limit per search)
         - https://smallseotools.com/plagiarism-checker/
         - https://www.grammarly.com/plagiarism-checker/
         - https://www.plagiarismsoftware.net/
@@ -55,7 +55,7 @@
     - filmina 64: Procedimiento para el control de plagio
     - filmina 78: Palabras claves. Agregar enlaces de tesauros > http://vocabularies.unesco.org/browser/thesaurus/es/ o [tesauros en línea](http://donruper.blogspot.com/2014/08/tesauros-disponibles-gratuitamente.html)
     - filmina 82: Metadatos & DublinCore: more data can be found [here](https://www.dublincore.org/specifications/dublin-core/dc-html/)
-        - check this [dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php) via [Cromaidea post](https://www.cromaidea.com/blog/posicionamiento-seo-con-la-utlizacion-de-dublin-core-metadata.html)
+        - check this [Dublin core generator form](https://www.cromaidea.com/dublin-core/en-dublin-core.php) via [Cromaidea post](https://www.cromaidea.com/blog/posicionamiento-seo-con-la-utlizacion-de-dublin-core-metadata.html)
         - verificar que cada artículo esté descrito con metaetiquetas. Es obligatorio el uso de una norma de metaetiquetas
     - filmina 83: metadatos de indexación (ejemplo)
     - filmina 90: la revista debe incluir servicios agregados como RSS; multimedia (video, sonido); actualización constante (artículo por artículo); acceso a datos crudos (estadísticas y anexos); tener presencia en redes sociales de ámbito académico; facilidades para que personas con diferentes discapacidades puedan acceder al contenido de la revista, así como indicaciones sobre cómo citar los artículos, etc.
