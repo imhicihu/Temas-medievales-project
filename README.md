@@ -10,8 +10,7 @@ In a nutshell, a website of Temas Medievales journal. Some internal prototypes a
 
 * Quick summary
     - Web for the journal _Temas Medievales_
-    - More sketches can be found [here](https://bitbucket.org/imhicihu/temas-medievales-project/issues/5/rough-workflow-bocetos-p-gina-web>)
-    ![desktop.png](images/3731280796-desktop.png)
+    - More sketches can be found [here](mockups/mockups.md)
     > Desktop responsive model
 
 ### How do I get set up? ###
