@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/portada.png?raw=true" max-width: 100%; alt="Logotipo de Temas-medievales-project"/>
+</p>
+
+---
+
 ![archived](images/3278295154-status_archived.png)
 ![stability-wip](images/477405737-stability_work_in_progress.png)
 ![issues-open](images/2944199103-issues_open.png)
