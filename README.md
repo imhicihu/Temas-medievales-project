@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/portada.png?raw=true" max-width: 100%; alt="Logotipo de Temas-medievales-project"/>
+  <img src="images/header.png?raw=true" max-width: 100%; alt="Logotipo de Temas-medievales-project"/>
 </p>
 
 ---
